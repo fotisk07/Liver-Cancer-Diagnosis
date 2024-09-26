@@ -24,7 +24,6 @@ Our ultimate goal is to enhance diagnostic accuracy and provide insights for med
 ```
 ├── data_analysis.ipynb        # Main analysis notebook
 ├── datasets/                  # Data folder (not included in this repo)
-├── src/                       # Source code
 ├── README.md                  # Project README
 └── images/                    # Folder for visual outputs and figures
 ```
